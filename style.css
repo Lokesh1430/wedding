@@ -806,7 +806,7 @@ body {
 }
 .textLove p{
     font-family: 'Roboto', sans-serif;
-    font-size: 60px;
+    font-size: 40px;
     padding: 0px 10px;
     -webkit-text-stroke: 3px red;
     -webkit-text-fill-color: #fff;
